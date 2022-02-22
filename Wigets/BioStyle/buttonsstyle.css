@@ -1,0 +1,68 @@
+.a-btn {
+    background-color: rgb(117, 117, 117);
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+    margin: 5px;
+
+    font-size: initial;
+
+    width: auto;
+    height: auto;
+
+    border-radius: 5px;
+    border-style: hidden;
+    text-decoration: none;
+    text-align: center;
+    align-items: center;
+}
+
+.a-btn {
+    background-color: rgb(175, 175, 175);
+}
+
+.a-btn:hover {
+    background-color: rgb(119, 119, 119);
+}
+
+.a-btn:active {
+    background-color: rgb(99, 99, 99);
+    border-style: hidden;
+}
+
+#accept {
+    background-color: rgb(120, 179, 33);
+}
+
+#accept:hover {
+    background-color: green;
+}
+
+#accept:active {
+    background-color: darkgreen;
+    border-style: hidden;
+}
+
+#decline {
+    background-color: rgb(179, 33, 33);
+}
+
+#decline:hover {
+    background-color: rgb(128, 0, 0);
+}
+
+#decline:active {
+    background-color: rgb(100, 0, 0);
+    border-style: hidden;
+}
+
+#bold-norm {
+    font-weight: bold;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

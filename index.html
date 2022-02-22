@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="manifest" href="./Icons/site.webmanifest">
+
+  <title>WigetFactory | Free Css Wigets! | Home</title>
+
+  <!-- ========== Style ========== -->
+  <!-- Main -->
+  <link rel="stylesheet" href="style.css">
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="/Bootstrap/Css/bootstrap.css">
+  <!-- Font Awesome rating stars -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- ========= Style ========== -->
+
+  <!-- =========== Icons ========== -->
+  <!-- Desktop -->
+  <link rel="shortcut icon" href="./Icons/favicon.ico" type="image/x-icon">
+  <!-- Apple -->
+  <link rel="apple-touch-icon" href="./Icons/apple-touch-icon.png">
+  <!-- Android -->
+  <link rel="apple-touch-icon-precomposed" href="./Icons/favicon-32x32.png">
+  <!-- ========= Icons ========== -->
+
+  <!-- ========== Scripts ========== -->
+  <!-- Main -->
+  <script src="./index.js"></script>
+  <!-- JQuery -->
+  <script src="./JQuery/jquery.js"></script>
+  <!-- Bootstrap -->
+  <script src="./Bootstrap/Js/bootstrap.js"></script>
+  <!-- ========= Scripts ========== -->
+</head>
+<body id="main">
+  <!-- ========== Start Banner ========== -->
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-12" id="banner">
+        <h1 class="display-1" id="title">Css Wigets, Free!</h1>
+      </div>
+    </div>
+  </div>  
+  <!-- ========== End Banner ========== -->
+
+  <!-- ========== Start Navbar ========== -->
+  <nav class="navbar navbar-expand-sm navbar-dark" style="background-color: #1b1b1b;">
+          <ul class="navbar-nav me-auto mt-2 mt-lg-0">
+              <li class="nav-item active">
+                  <a class="nav-link" id="home-link" href="./index.html">Home <span class="visually-hidden">(current)</span></a>
+              </li>
+              <li class="nav-item">
+                  <a class="nav-link" id="home-link" href="./wigets.html">Browse</a>
+              </li>
+              <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="StyleId" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Styles</a>
+                  <div class="dropdown-menu" aria-labelledby="StyleId">
+                      <a class="dropdown-item" id="dark-dropdown" href="./darkwigets.html">Dark</a>
+                      <a class="dropdown-item" id="light-dropdown" href="./lightwigets.html">Light</a>
+                  </div>
+              </li>
+          </ul>
+          <form class="d-flex my-2 my-lg-0">
+              <input class="form-control me-sm-2" id="search-bar" type="text" placeholder="Search...">
+              <button class="btn btn-outline-success my-2 my-sm-0" id="search-btn" type="submit">Search</button>
+          </form>
+      </div>
+  </nav>
+  <!-- ========== End Navbar ========== -->
+
+  <!-- ========== Start Body ========== -->
+  <div class="container" id="body">
+    <div class="row">
+      <div class="col-md-12 col-sm-4">
+        <p class="display-6" id="text-grabber">
+          Add Wigets with a click. Cusomize with a few more...
+        </p>
+      </div>
+      <div class="col-md-12 col-sm-8">
+        <img src="./Imgs/eg-2-zm.png" class="img-fluid rounded-3" id="css-code" alt="Wiget Css Code" width="" height="">
+      </div>
+    </div>
+  </div>
+  <!-- ========== End Body ========== -->
+</body>
+</html>
