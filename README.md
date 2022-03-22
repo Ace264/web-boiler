@@ -15,12 +15,12 @@
 ## Install
 Install using Git "clone" or download manually on Github:
 ```shell
-git clone
+git clone https://github.com/Ace264/ace-website-template.git
 ```
 
 ## License
 
-MIT
+GPL-3.0 License
 
 ## Author
 
