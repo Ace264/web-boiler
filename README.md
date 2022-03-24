@@ -12,16 +12,24 @@
   <br>
 </p>
 
+#
+
 ## Install
 Install using Git "clone" or download manually on Github:
+#
 ```shell
-git clone
+git clone https://github.com/Ace264/ace-website-template.git
 ```
+#
+# Favicons
+The Favicons were created by my favorite
+[Favicon Generator](https://favicon.io/favicon-generator/).
+#
 
 ## License
 
-MIT
-
+GNU GENERAL PUBLIC LICENSE
+#
 ## Author
 
-[@Ace264](https://github.com/Ace264)
+[@Ace264](https://github.com/Ace264) on Github
