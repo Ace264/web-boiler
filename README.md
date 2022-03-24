@@ -25,7 +25,7 @@ git clone https://github.com/Ace264/ace-website-template.git
 #
 ![Step 1](./Imgs/Git-Start.png)
 ## Finished!
-![Step 2](./Imgs/Git-100.png)
+![Step 2](./Imgs/Git-End.png)
 #
 # Favicons
 The Favicons were created by my favorite
