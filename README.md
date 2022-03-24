@@ -1,4 +1,4 @@
-<h1 align="center">Web Template v0.2.0</h1>
+<h1 align="center">Web Template v0.4.7</h1>
 <img src="./Imgs/Preveiw.png">
 <p align="center">
   An open source Web Template for developers using Jquery and Bootstrap.
@@ -29,6 +29,7 @@ The Favicons were created by my favorite
 ## License
 
 GNU GENERAL PUBLIC LICENSE
+
 #
 ## Author
 
