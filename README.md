@@ -21,16 +21,22 @@ Install using Git "clone" or download manually on Github:
 git clone https://github.com/Ace264/ace-website-template.git
 ```
 #
+## Git clone in Action:
+#
+![Step 1](./Imgs/Git-Start.png)
+## Finished!
+![Step 2](./Imgs/Git-100.png)
+#
 # Favicons
 The Favicons were created by my favorite
 [Favicon Generator](https://favicon.io/favicon-generator/).
-#
 
-## License
+
+# License
 
 GNU GENERAL PUBLIC LICENSE
 
-#
-## Author
+
+# Author
 
 [@Ace264](https://github.com/Ace264) on Github
