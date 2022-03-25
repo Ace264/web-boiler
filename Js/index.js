@@ -1,3 +1,3 @@
-/* The main Js file you edit: 
+/* The Js file for index.html you can edit: 
  * You can use JQuery or vanilla Js
  */
