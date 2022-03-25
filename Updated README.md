@@ -1,4 +1,4 @@
-<h1 align="center">Web Template v1.2.1</h1>
+<h1 align="center">Web Template v1.5.0</h1>
 <img src="./Imgs/README/Preveiw.png">
 <p align="center">
   An open source Web Template for developers using Jquery and Bootstrap.
