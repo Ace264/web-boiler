@@ -1,5 +1,5 @@
-<h1 align="center">Web Template v0.4.7</h1>
-<img src="./Imgs/Preveiw.png">
+<h1 align="center">Web Template v1.2.1</h1>
+<img src="./Imgs/README/Preveiw.png">
 <p align="center">
   An open source Web Template for developers using Jquery and Bootstrap.
   <br>
@@ -21,11 +21,11 @@ Install using Git "clone" or download manually on Github:
 git clone https://github.com/Ace264/ace-website-template.git
 ```
 #
-## Git clone in Action:
+## Git clone in Action (On **raspberry Pi OS**):
 #
-![Step 1](./Imgs/Git-Start.png)
+![Step 1](./Imgs/README/Git-Start.png)
 ## Finished!
-![Step 2](./Imgs/Git-End.png)
+![Step 2](./Imgs/README/Git-End.png)
 #
 # Favicons
 The Favicons were created by my favorite
